@@ -36,6 +36,9 @@ Compatible with: Any PC or laptop with Python and Selenium installed on Chrome, 
 2. Install `selenium` (https://pypi.org/project/selenium/)
 3. Install `Webdriver` (For Chrome: https://chromedriver.chromium.org/, similarly find a specific driver for your browser)
 4. Install `pyautogui` (https://pypi.org/project/PyAutoGUI/)
+### OR
+    pip install -r requirements.txt
+	
 
 ## Usage
 
